@@ -2,7 +2,7 @@
 
 Count words, characters (with/without spaces), and paragraphs in the selected part of your document. 
 
-The plugin is compatible with [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop](https://github.com/ONLYOFFICE/DesktopEditors) versions of ONLYOFFICE editors. It can be added to ONLYOFFICE instances manually. 
+The plugin is compatible with [self-hosted](https://github.com/Sarv/sarv-editors-plugins) and [desktop](https://github.com/Sarv/sarv-editors-plugins) versions of Sarv Office editors. It can be added to Sarv Office instances manually. 
 
 ## How to use
 
@@ -11,7 +11,7 @@ The plugin is compatible with [self-hosted](https://github.com/ONLYOFFICE/Docume
 
 ## How to install
 
-Detailed instructions can be found in [ONLYOFFICE API documentation](https://api.onlyoffice.com/docs/plugin-and-macros/tutorials/installing/onlyoffice-docs-on-premises/).
+Detailed instructions can be found in [Sarv Office API documentation](https://sarv.com).
 
 ## Known issues
 

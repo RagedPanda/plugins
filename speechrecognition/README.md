@@ -1,10 +1,10 @@
 ## Overview
 
-Type with your voice in ONLYOFFICE Docs.
+Type with your voice in Sarv Office Docs.
 
 The plugin uses [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API).
 
-The plugin can be installed manually to the [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) version of ONLYOFFICE Docs.
+The plugin can be installed manually to the [self-hosted](https://github.com/Sarv/sarv-editors-plugins) version of Sarv Office Docs.
 
 ## How to use
 
@@ -16,7 +16,7 @@ The plugin can be installed manually to the [self-hosted](https://github.com/ONL
 
 ## How to install
 
-Detailed instructions can be found in [ONLYOFFICE API documentation](https://api.onlyoffice.com/docs/plugin-and-macros/tutorials/installing/onlyoffice-docs-on-premises/).
+Detailed instructions can be found in [Sarv Office API documentation](https://sarv.com).
 
 ## Known issues
 

@@ -4,7 +4,7 @@ Import data from OData feeds into your spreadsheet.
 
 The plugin connects to [OData](https://www.odata.org/) services and allows you to browse available entity sets (tables), preview data, and insert it directly into cells as formatted tables.
 
-OData Import is compatible with [self-hosted](https://github.com/ONLYOFFICE/DocumentServer) and [desktop](https://github.com/ONLYOFFICE/DesktopEditors) versions of ONLYOFFICE editors. It can be added to ONLYOFFICE instances manually.
+OData Import is compatible with [self-hosted](https://github.com/Sarv/sarv-editors-plugins) and [desktop](https://github.com/Sarv/sarv-editors-plugins) versions of Sarv Office editors. It can be added to Sarv Office instances manually.
 
 ## How to use
 
@@ -20,7 +20,7 @@ OData Import is compatible with [self-hosted](https://github.com/ONLYOFFICE/Docu
 
 ## How to install
 
-Detailed instructions can be found in [ONLYOFFICE API documentation](https://api.onlyoffice.com/docs/plugin-and-macros/tutorials/installing/onlyoffice-docs-on-premises/).
+Detailed instructions can be found in [Sarv Office API documentation](https://sarv.com).
 
 ## Supported OData versions
 
